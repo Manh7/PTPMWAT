@@ -12,7 +12,7 @@ Dự án nhằm phục vụ môn **Phát triển Web An toàn**, gồm mô phỏ
 | STT | Họ tên               | MSV       | Nội dung thực hiện          |
 |-----|----------------------|---------------|----------------------|
 | 1   | Trương Đức Mạnh      | 22810310320    |  Cấu hình Resource Server xác thực token, cấu hình React login bằng OAuth2  |
-| 2   | Nguyễn Cát Bộ        | 22810310305    |  Demo tấn công và cách khắc phục           |
+| 2   | Nguyễn Cát Bộ        | 22810310305    |  Demo tấn công misuse redirect_uri chiếm token của user và cách khắc phục   |
 | 3   | Nguyễn Thành Đạt     | 22810310314    |  Cấu hình docker và cấu hình Keycloak làm authorization server chính của dự án |
 
 ---
